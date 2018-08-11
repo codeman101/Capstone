@@ -8,6 +8,5 @@ If either is clicked it run the disired program but also put a C++ executable in
 which will crash the computer by constantly allocating memory in an infinite loop and before entering that loop 
 it calls iself to prevent the OS from being able to kill it.
 
-Note to Employers: I've with-held the malicious part of this program. If you wish to see it please email me. 
-=======
-# Capstone
+# Note to Employers: 
+I've with-held the malicious part of this program. If you wish to see it please email me. 
