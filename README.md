@@ -9,4 +9,4 @@ which will crash the computer by constantly allocating memory in an infinite loo
 it calls iself to prevent the OS from being able to kill it.
 
 # Note to Employers: 
-I've with-held the malicious part of this program. If you wish to see it please email me. 
+I've withheld the malicious part of this program. If you wish to see it please email me. 
